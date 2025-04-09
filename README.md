@@ -3,7 +3,7 @@
 <section>
   <a href="https://github.com/luabraggion">
     <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=luabraggion&theme=dark&show_icons=true&locale=pt-br&include_all_commits=true&text_bold=false&card_width=450" />
-    <img align="center" height="170em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion&theme=dark&layout=compact&size_weight=0.25&locale=pt-br&include_all_commits=true&text_bold&card_width=450" />
+    <img align="center" height="170em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion&theme=dark&layout=compact&locale=pt-br&include_all_commits=true&text_bold&card_width=450" />
   </a>
 </section>
 
