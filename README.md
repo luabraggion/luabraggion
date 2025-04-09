@@ -2,8 +2,8 @@
 
 <section>
   <a href="https://github.com/luabraggion">
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=luabraggion&theme=dark&show_icons=true&locale=pt-br&include_all_commits=true&text_bold=false" />
-    <img align="center" height="170em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5&locale=pt-br&include_all_commits=true&line_height=10&text_bold&card_width=500" />
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=luabraggion&theme=dark&show_icons=true&locale=pt-br&include_all_commits=true&text_bold=false&card_width=400" />
+    <img align="center" height="170em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5&locale=pt-br&include_all_commits=true&line_height=10&text_bold&card_width=400" />
   </a>
 </section>
 
