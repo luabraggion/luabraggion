@@ -3,9 +3,11 @@
 <section>
   <a href="https://github.com/luabraggion">
     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=luabraggion&count_private=true&show_icons=true&bg_color=00000000&icon_color=FFF&text_color=434d58&locale=pt-br&include_all_commits=true" />
-    <img align="center" height="200em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion&layout=compact&bg_color=00000000&repo=finances" />
+    <img align="center" height="200em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/?username=luabraggion&layout=compact&bg_color=00000000&repo=finances" />
   </a>
 </section>
+
+[![Top Langs](https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
