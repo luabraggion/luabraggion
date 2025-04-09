@@ -2,10 +2,8 @@
 
 <section>
   <a href="https://github.com/luabraggion">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luabraggion&count_private=true&show_icons=true&theme=synthwave&locale=pt-br&hide_border=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/luabraggion">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luabraggion&layout=compact&langs_count=16theme=synthwavehide_border=true" />
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=luabraggion&count_private=true&show_icons=true&bg_color=00000000&icon_color=FFF&text_color=434d58&locale=pt-br&include_all_commits=true" />
+    <img align="center" height="200em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion&layout=compact&bg_color=00000000&repo=finances" />
   </a>
 </section>
 
