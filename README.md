@@ -2,10 +2,11 @@
 
 <section>
   <a href="https://github.com/luabraggion">
-    <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=luabraggion&count_private=true&show_icons=true&bg_color=00000000&icon_color=FFF&text_color=434d58&locale=pt-br&include_all_commits=true" />
-    <img align="center" height="250em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion&layout=donut&bg_color=00000000&size_weight=0.5&count_weight=0." />
+    <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=luabraggion&theme=dark&show_icons=true&locale=pt-br&include_all_commits=true&text_bold=false" />
+    <img align="center" height="250em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5&locale=pt-br&include_all_commits=true&line_height=10&text_bold" />
   </a>
 </section>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
