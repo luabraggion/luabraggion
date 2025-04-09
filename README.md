@@ -2,8 +2,8 @@
 
 <section>
   <a href="https://github.com/luabraggion">
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=luabraggion&count_private=true&show_icons=true&bg_color=00000000&icon_color=FFF&text_color=434d58&locale=pt-br&include_all_commits=true" />
-    <!--<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luabraggion&layout=compact&bg_color=00000000" />-->
+    <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=luabraggion&count_private=true&show_icons=true&bg_color=00000000&icon_color=FFF&text_color=434d58&locale=pt-br&include_all_commits=true" />
+    <img align="center" height="250em" src="https://github-readme-stats-git-master-luabraggions-projects.vercel.app/api/top-langs/?username=luabraggion&layout=donut&bg_color=00000000&size_weight=0.5&count_weight=0." />
   </a>
 </section>
 
