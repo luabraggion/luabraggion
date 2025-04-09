@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-<a href="https://github.com/luabraggion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luabraggion&count_private=true&show_icons=true&theme=synthwave&locale=pt-br" />
-</a>
+<section>
+  <a href="https://github.com/luabraggion">
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=luabraggion&count_private=true&show_icons=true&theme=synthwave&locale=pt-br&hide_border=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/luabraggion">
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luabraggion&layout=compact&theme=synthwavehide_border=true" />
+  </a>
+</section>
 
 <!--
 **luabraggion/luabraggion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
